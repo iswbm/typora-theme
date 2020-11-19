@@ -658,14 +658,6 @@ table tr td:last-child {
 }
 
 
-/*code snippet*/
-#write code, tt {
-    margin: 0 2px;
-    border-radius: 2px;
-    font-family: initial !important;
-    color: var(--drake-highlight);
-}
-
 /* heighlight. */
 #write mark {
     background-color: #e7ecf3;
