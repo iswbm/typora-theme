@@ -431,14 +431,11 @@ table tr td:last-child {
 }
 
 #write strong {
-
-
-    color: #ffffff;
-    display: inline-block;
-    font-weight: normal;
-    padding: 1px 4px;
-    background-color: #273849;
-    border-radius: 2px;
+display: inline-block;
+font-weight: bold;
+padding: 1px 10px;
+background-color: rgb(255, 104, 39);
+color: rgb(255, 255, 255);
 }
 
 #write em {
